@@ -1,0 +1,27 @@
+{
+  "name": "zyx-contracts",
+  "version": "1.0.0",
+  "description": "wraped zyx contract deployed for different evm networks ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolik2001/zyx-contracts.git"
+  },
+  "keywords": [
+    "web3",
+    "zyx",
+    "evm",
+    "solidity"
+  ],
+  "author": "rolik2001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolik2001/zyx-contracts/issues"
+  },
+  "homepage": "https://github.com/rolik2001/zyx-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/truffle-upgrades": "^1.9.1",
+    "truffle-privatekey-provider": "^1.5.0"
+  }
+}
