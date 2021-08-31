@@ -1,7 +1,7 @@
 {
   "name": "zyx-contracts",
   "version": "1.0.0",
-  "description": "wraped zyx contract deployed for different evm networks ",
+  "description": "wraped zyx contract for different evm networks ",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rolik2001/zyx-contracts.git"
